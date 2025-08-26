@@ -28,7 +28,7 @@ Welcome to my GitHub profile! an aspiring data scientist with skills and knowled
 
 ## 📫 Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/zion-omogbeme-43021b359/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/zion-omogbeme-43021b359/)](https://www.linkedin.com/in/zion-omogbeme-43021b359/))
 
 ---
 
