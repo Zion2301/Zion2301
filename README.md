@@ -21,7 +21,7 @@ Here’s the arsenal I’ve been leveling up with:
 
 Because numbers make everything look more serious (even when I’m not 😅):
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=zeeFlex22&show_icons=true&theme=tokyonight" alt="Zion’s GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeFlex22&layout=compact&theme=tokyonight" alt="Top Langs" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zion2301&show_icons=true&theme=tokyonight" alt="Zion’s GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zion2301&layout=compact&theme=tokyonight" alt="Top Langs" /> </p>
 📫 Let’s Connect
 <p align="center"> <a href="https://www.linkedin.com/in/zion-omogbeme-43021b359/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
