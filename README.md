@@ -17,11 +17,19 @@ Here’s the arsenal I’ve been leveling up with:
 
 (Yes, it’s a lot — my GitHub kinda looks like a Formula 1 car plastered with sponsor logos, but I vibe with it.)
 
-📊 GitHub Stats
+🌍 Fun Stuff Instead of Stats
 
-Because numbers make everything look more serious (even when I’m not 😅):
+Because who needs boring numbers when you can have vibes?
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Zion2301&show_icons=true&theme=tokyonight" alt="Zion’s GitHub stats" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zion2301&layout=compact&theme=tokyonight" alt="Top Langs" /> </p>
+🧑‍💻 Currently building cool projects (and occasionally breaking them).
+
+📖 Learning more about Data Science & Machine Learning every day.
+
+🎮 Gamer on weekends, debugger on weekdays.
+
+🐍 Waiting for my contribution graph snake to get fed someday.
+
+<p align="center"> <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </p>
 📫 Let’s Connect
 <p align="center"> <a href="https://www.linkedin.com/in/zion-omogbeme-43021b359/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> </p>
 
