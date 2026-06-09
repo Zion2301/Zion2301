@@ -4,7 +4,7 @@ Hey there, I’m Zion 👋
 Welcome to my GitHub!
 This is where bugs fear me (sometimes), coffee fuels me (most times), and code is my second language.
 
-I’m an aspiring Data Scientist who also happens to speak fluent Web Dev — HTML, CSS, JavaScript, React, TypeScript… you name it. Backend? Yup, I wrestle with Java, Spring Boot, Node.js and occasionally win.
+I’m a Software Engineer who also happens to speak fluent Web Dev — HTML, CSS, JavaScript, React, TypeScript… you name it. Backend? Yup, I wrestle with Java, Spring Boot, Node.js and occasionally win.
 
 Basically:
 If it runs on code, I want to learn it. If it breaks, I will Google it.
